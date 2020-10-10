@@ -1,1 +1,2 @@
-print('hello world') # basic hello world program
+print("hello world",end=".")
+print ('hello\'s world') # basic hello world program
